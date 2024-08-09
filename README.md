@@ -12,5 +12,4 @@ Meu nome é Yasmim Rodrigues
 
 mimrodrigues1305@gmail.com
 
-![]()
-https://media.tenor.com/LZUBjmbft7YAAAAj/bear-panda.gif
+![](https://media.tenor.com/LZUBjmbft7YAAAAj/bear-panda.gif)
